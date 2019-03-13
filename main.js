@@ -1,4 +1,4 @@
-// ARRAY VISUALIZER
+// STUDENT GRADE ANALYZER
 
 // Set up Canvas and Graphics Context
 let cnv = document.getElementById("myCanvas");
